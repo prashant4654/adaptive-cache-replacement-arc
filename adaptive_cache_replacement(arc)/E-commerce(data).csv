@@ -1,0 +1,1001 @@
+ProductID,Name,Company,Category,Price,Views
+1,Indica 1,Tata Motors,Cars,1203.89,23067
+2,Nano 2,Tata Motors,Cars,101.24,4927
+3,Safari 3,Tata Motors,Cars,248.18,22910
+4,Nano 4,Tata Motors,Cars,773.44,7792
+5,Safari 5,Tata Motors,Cars,1663.79,16186
+6,Indica 6,Tata Motors,Cars,56.62,20150
+7,Safari 7,Tata Motors,Cars,1614.7,20795
+8,Nano 8,Tata Motors,Cars,1551.59,11622
+9,Safari 9,Tata Motors,Cars,235.62,14140
+10,Nano 10,Tata Motors,Cars,1515.63,7956
+11,XUV500 1,Mahindra,Cars,1619.23,13316
+12,Thar 2,Mahindra,Cars,1671.22,8913
+13,Thar 3,Mahindra,Cars,44.98,19720
+14,Thar 4,Mahindra,Cars,1693.93,17312
+15,XUV500 5,Mahindra,Cars,1216.47,13143
+16,XUV500 1,Mahindra,Tractors,904.65,24004
+17,Thar 2,Mahindra,Tractors,661.24,6905
+18,Scorpio 3,Mahindra,Tractors,1526.95,15619
+19,XUV500 4,Mahindra,Tractors,973.82,17108
+20,Thar 5,Mahindra,Tractors,1846.37,8614
+21,E-Gift Card 1,Flipkart,E-commerce,1528.68,3211
+22,E-Gift Card 2,Flipkart,E-commerce,165.06,19334
+23,Smart Buy Headphones 3,Flipkart,E-commerce,274.83,13659
+24,E-Gift Card 4,Flipkart,E-commerce,1590.37,10637
+25,E-Gift Card 5,Flipkart,E-commerce,1046.61,5354
+26,E-Gift Card 6,Flipkart,E-commerce,1787.34,14775
+27,E-Gift Card 7,Flipkart,E-commerce,1843.22,12558
+28,Smart Buy Headphones 8,Flipkart,E-commerce,792.41,24930
+29,Smart Buy Headphones 9,Flipkart,E-commerce,393.71,23363
+30,E-Gift Card 10,Flipkart,E-commerce,963.27,4246
+31,Jio Phone 1,Reliance,Retail,1332.04,24588
+32,Jio Phone 2,Reliance,Retail,503.37,9975
+33,LYF Smartphone 3,Reliance,Retail,1230.24,8176
+34,LYF Smartphone 4,Reliance,Retail,1104.64,5582
+35,LYF Smartphone 5,Reliance,Retail,1605.3,15315
+36,LYF Smartphone 1,Reliance,Telecom,1987.08,15243
+37,LYF Smartphone 2,Reliance,Telecom,642.02,24338
+38,Jio Phone 3,Reliance,Telecom,871.56,4787
+39,Jio Phone 4,Reliance,Telecom,1361.11,1237
+40,LYF Smartphone 5,Reliance,Telecom,1591.73,14995
+41,Dominar 1,Bajaj,Motorcycles,572.27,16217
+42,Avenger 2,Bajaj,Motorcycles,449.58,17159
+43,Avenger 3,Bajaj,Motorcycles,960.35,22844
+44,Avenger 4,Bajaj,Motorcycles,1831.5,21820
+45,Avenger 5,Bajaj,Motorcycles,372.67,18235
+46,Avenger 6,Bajaj,Motorcycles,33.6,2786
+47,Pulsar 7,Bajaj,Motorcycles,1605.37,23924
+48,Pulsar 8,Bajaj,Motorcycles,608.98,11304
+49,Dominar 9,Bajaj,Motorcycles,832.99,23681
+50,Avenger 10,Bajaj,Motorcycles,1241.81,17665
+51,Washing Machine 1,Godrej,Home Appliances,436.01,11960
+52,Air Conditioner 2,Godrej,Home Appliances,1004.23,3020
+53,Washing Machine 3,Godrej,Home Appliances,502.5,5473
+54,Washing Machine 4,Godrej,Home Appliances,1314.09,3314
+55,Air Conditioner 5,Godrej,Home Appliances,1458.53,2197
+56,Washing Machine 6,Godrej,Home Appliances,111.83,12792
+57,Refrigerator 7,Godrej,Home Appliances,1626.79,20299
+58,Refrigerator 8,Godrej,Home Appliances,1742.77,9198
+59,Washing Machine 9,Godrej,Home Appliances,838.56,19742
+60,Refrigerator 10,Godrej,Home Appliances,119.99,10122
+61,Finacle Banking Suite 1,Infosys,Software,1706.64,19900
+62,Finacle Banking Suite 2,Infosys,Software,641.54,9992
+63,Finacle Banking Suite 3,Infosys,Software,234.83,4745
+64,Finacle Banking Suite 4,Infosys,Software,1864.12,19732
+65,Finacle Banking Suite 5,Infosys,Software,574.16,19800
+66,Finacle Banking Suite 6,Infosys,Software,1486.81,23222
+67,Finacle Banking Suite 7,Infosys,Software,1398.25,22965
+68,Finacle Banking Suite 8,Infosys,Software,264.0,4568
+69,Finacle Banking Suite 9,Infosys,Software,1708.86,2366
+70,Finacle Banking Suite 10,Infosys,Software,1213.16,6054
+71,Lighting Solutions 1,Wipro,Software,968.51,15042
+72,Lighting Solutions 2,Wipro,Software,789.05,21863
+73,Lighting Solutions 3,Wipro,Software,1200.64,8852
+74,Lighting Solutions 4,Wipro,Software,1624.6,14501
+75,Lighting Solutions 5,Wipro,Software,1394.52,15777
+76,Lighting Solutions 6,Wipro,Software,552.34,18287
+77,Lighting Solutions 7,Wipro,Software,225.6,5919
+78,Lighting Solutions 8,Wipro,Software,1370.1,11481
+79,Lighting Solutions 9,Wipro,Software,1941.36,3813
+80,Lighting Solutions 10,Wipro,Software,1778.72,16754
+81,Enterprise Software 1,HCL,Software,733.32,7898
+82,Enterprise Software 2,HCL,Software,236.38,1473
+83,Enterprise Software 3,HCL,Software,1331.88,12905
+84,Enterprise Software 4,HCL,Software,631.64,12797
+85,Enterprise Software 5,HCL,Software,1385.0,24654
+86,Enterprise Software 6,HCL,Software,106.27,12380
+87,Enterprise Software 7,HCL,Software,1466.42,22905
+88,Enterprise Software 8,HCL,Software,808.19,24461
+89,Enterprise Software 9,HCL,Software,1788.17,23277
+90,Enterprise Software 10,HCL,Software,40.4,1557
+91,Baleno 1,Maruti Suzuki,Cars,56.27,24597
+92,Swift 2,Maruti Suzuki,Cars,1418.25,13853
+93,Vitara Brezza 3,Maruti Suzuki,Cars,1021.42,15265
+94,Vitara Brezza 4,Maruti Suzuki,Cars,1194.89,21997
+95,Vitara Brezza 5,Maruti Suzuki,Cars,1076.37,1289
+96,Vitara Brezza 6,Maruti Suzuki,Cars,1558.39,18738
+97,Swift 7,Maruti Suzuki,Cars,1385.14,8802
+98,Swift 8,Maruti Suzuki,Cars,840.54,5653
+99,Vitara Brezza 9,Maruti Suzuki,Cars,1795.51,11885
+100,Baleno 10,Maruti Suzuki,Cars,214.57,13981
+101,MacBook Air 1,Apple,Smartphones,1117.11,17678
+102,iPhone 2,Apple,Smartphones,1596.59,4391
+103,MacBook Pro 3,Apple,Smartphones,985.58,13500
+104,MacBook Pro 1,Apple,Laptops,639.63,24403
+105,iPad 2,Apple,Laptops,503.66,4901
+106,iPhone 3,Apple,Laptops,1004.44,22926
+107,iPhone 1,Apple,Tablets,983.6,17658
+108,iPhone 2,Apple,Tablets,1641.03,9968
+109,MacBook Pro 3,Apple,Tablets,934.5,20904
+110,Surface Pro 1,Microsoft,Software,185.97,10365
+111,Xbox 2,Microsoft,Software,1341.72,19797
+112,Surface Pro 3,Microsoft,Software,340.14,2556
+113,Surface Pro 1,Microsoft,Gaming Consoles,1883.07,7999
+114,Xbox 2,Microsoft,Gaming Consoles,265.41,19931
+115,Xbox 3,Microsoft,Gaming Consoles,73.2,5344
+116,Windows 1,Microsoft,Tablets,299.99,5592
+117,Surface Pro 2,Microsoft,Tablets,1167.71,2634
+118,Windows 3,Microsoft,Tablets,188.47,21267
+119,F-150 1,Ford,Cars,679.37,6094
+120,F-150 2,Ford,Cars,1338.21,21937
+121,Mustang 3,Ford,Cars,786.44,17900
+122,Mustang 4,Ford,Cars,1881.11,8181
+123,Mustang 5,Ford,Cars,1219.06,15277
+124,Mustang 6,Ford,Cars,1542.31,3912
+125,Explorer 7,Ford,Cars,375.4,13143
+126,Explorer 8,Ford,Cars,681.15,18296
+127,Explorer 9,Ford,Cars,1812.76,10641
+128,Explorer 10,Ford,Cars,640.49,1688
+129,Chevrolet Silverado 1,General Motors,Cars,1731.7,16899
+130,Chevrolet Silverado 2,General Motors,Cars,1298.37,3478
+131,GMC Sierra 3,General Motors,Cars,569.59,11177
+132,GMC Sierra 4,General Motors,Cars,815.31,24476
+133,Chevrolet Silverado 5,General Motors,Cars,894.22,1824
+134,GMC Sierra 6,General Motors,Cars,1214.11,14004
+135,GMC Sierra 7,General Motors,Cars,1221.3,23298
+136,Chevrolet Silverado 8,General Motors,Cars,995.23,13367
+137,Chevrolet Silverado 9,General Motors,Cars,1898.44,23861
+138,Chevrolet Silverado 10,General Motors,Cars,346.63,8817
+139,Inspiron 1,Dell,Laptops,1901.57,19631
+140,XPS 2,Dell,Laptops,754.56,5215
+141,XPS 3,Dell,Laptops,662.38,16859
+142,XPS 4,Dell,Laptops,677.19,16960
+143,Inspiron 5,Dell,Laptops,1159.93,16792
+144,Inspiron 1,Dell,Computers,1522.15,16077
+145,XPS 2,Dell,Computers,1063.48,24762
+146,XPS 3,Dell,Computers,1090.15,22511
+147,Inspiron 4,Dell,Computers,1215.48,19404
+148,Inspiron 5,Dell,Computers,1882.62,13430
+149,Envy 1,HP,Laptops,1322.92,24144
+150,Pavilion 2,HP,Laptops,1364.04,1728
+151,Envy 3,HP,Laptops,882.88,5675
+152,Pavilion 4,HP,Laptops,1507.79,24480
+153,Pavilion 5,HP,Laptops,734.19,12496
+154,Pavilion 1,HP,Printers,397.56,1970
+155,Spectre 2,HP,Printers,1483.64,14354
+156,Spectre 3,HP,Printers,1962.84,12128
+157,Envy 4,HP,Printers,1910.97,8737
+158,Pavilion 5,HP,Printers,1807.95,23396
+159,Kindle 1,Amazon,E-commerce,58.99,16263
+160,Fire TV Stick 2,Amazon,E-commerce,213.69,18467
+161,Fire TV Stick 3,Amazon,E-commerce,110.51,24820
+162,Kindle 1,Amazon,Smart Home,116.1,17743
+163,Echo Dot 2,Amazon,Smart Home,289.14,9416
+164,Echo Dot 3,Amazon,Smart Home,747.13,5205
+165,Fire TV Stick 1,Amazon,Electronics,1060.66,22158
+166,Fire TV Stick 2,Amazon,Electronics,1649.93,14418
+167,Fire TV Stick 3,Amazon,Electronics,1620.85,4274
+168,Model 3 1,Tesla,Cars,962.05,24416
+169,Model Y 2,Tesla,Cars,1869.6,14948
+170,Model 3 3,Tesla,Cars,1555.39,1556
+171,Model Y 4,Tesla,Cars,1032.73,8855
+172,Model Y 5,Tesla,Cars,742.02,1444
+173,Model X 6,Tesla,Cars,160.23,3254
+174,Model Y 7,Tesla,Cars,1004.22,3336
+175,Model Y 8,Tesla,Cars,1541.39,2889
+176,Model Y 9,Tesla,Cars,926.62,17082
+177,Model X 10,Tesla,Cars,652.7,11487
+178,737 Max 1,Boeing,Aircraft,1688.43,13377
+179,737 Max 2,Boeing,Aircraft,903.92,20053
+180,787 Dreamliner 3,Boeing,Aircraft,1373.29,23941
+181,737 Max 4,Boeing,Aircraft,577.56,11771
+182,787 Dreamliner 5,Boeing,Aircraft,906.07,14536
+183,787 Dreamliner 6,Boeing,Aircraft,1962.85,20264
+184,737 Max 7,Boeing,Aircraft,330.35,9999
+185,737 Max 8,Boeing,Aircraft,1937.29,16648
+186,737 Max 9,Boeing,Aircraft,1478.94,6321
+187,737 Max 10,Boeing,Aircraft,1399.18,15374
+188,Air Max 1,Nike,Shoes,1019.06,1130
+189,Dri-Fit Shirt 2,Nike,Shoes,1197.73,21441
+190,Dri-Fit Shirt 3,Nike,Shoes,1619.66,16942
+191,Air Max 4,Nike,Shoes,891.29,23466
+192,ZoomX Vaporfly 5,Nike,Shoes,499.65,2269
+193,Air Max 1,Nike,Clothing,1353.99,10064
+194,ZoomX Vaporfly 2,Nike,Clothing,1578.28,15919
+195,Dri-Fit Shirt 3,Nike,Clothing,86.76,7783
+196,ZoomX Vaporfly 4,Nike,Clothing,1823.5,21462
+197,ZoomX Vaporfly 5,Nike,Clothing,1404.61,1697
+198,Corolla 1,Toyota,Cars,1935.78,20655
+199,Camry 2,Toyota,Cars,1394.88,21200
+200,Camry 3,Toyota,Cars,419.54,15861
+201,Camry 4,Toyota,Cars,1639.42,17873
+202,RAV4 5,Toyota,Cars,778.23,5098
+203,Corolla 6,Toyota,Cars,1277.4,18245
+204,Camry 7,Toyota,Cars,347.88,1979
+205,Corolla 8,Toyota,Cars,81.82,19831
+206,Camry 9,Toyota,Cars,1339.32,24478
+207,Camry 10,Toyota,Cars,1638.89,23340
+208,Civic 1,Honda,Cars,1615.45,5568
+209,Civic 2,Honda,Cars,34.01,9863
+210,CR-V 3,Honda,Cars,1540.77,12896
+211,CR-V 4,Honda,Cars,791.6,1184
+212,Civic 5,Honda,Cars,1661.81,5309
+213,Civic 1,Honda,Motorcycles,1185.07,19074
+214,CR-V 2,Honda,Motorcycles,708.57,17946
+215,CR-V 3,Honda,Motorcycles,1694.06,17445
+216,Civic 4,Honda,Motorcycles,589.36,9685
+217,Accord 5,Honda,Motorcycles,1439.26,4699
+218,Alpha Camera 1,Sony,Electronics,795.46,20582
+219,Bravia TV 2,Sony,Electronics,847.84,7364
+220,Alpha Camera 3,Sony,Electronics,1896.01,2256
+221,Bravia TV 1,Sony,Gaming Consoles,1256.13,24066
+222,PlayStation 2,Sony,Gaming Consoles,449.14,15731
+223,Bravia TV 3,Sony,Gaming Consoles,30.35,19260
+224,Bravia TV 1,Sony,Cameras,627.62,5825
+225,Bravia TV 2,Sony,Cameras,1946.67,21252
+226,Bravia TV 3,Sony,Cameras,468.98,7828
+227,Lumix Camera 1,Panasonic,Electronics,81.29,19290
+228,Viera TV 2,Panasonic,Electronics,1358.48,4046
+229,Viera TV 3,Panasonic,Electronics,1177.44,6940
+230,Viera TV 4,Panasonic,Electronics,554.6,18027
+231,Viera TV 5,Panasonic,Electronics,1031.83,12619
+232,Viera TV 1,Panasonic,Home Appliances,1225.54,5767
+233,Home Theater 2,Panasonic,Home Appliances,912.38,1160
+234,Viera TV 3,Panasonic,Home Appliances,101.96,7928
+235,Viera TV 4,Panasonic,Home Appliances,112.92,19175
+236,Viera TV 5,Panasonic,Home Appliances,1375.49,5525
+237,Wii 1,Nintendo,Gaming Consoles,721.86,20785
+238,Switch 2,Nintendo,Gaming Consoles,1349.67,20265
+239,Wii 3,Nintendo,Gaming Consoles,888.72,20555
+240,Switch 4,Nintendo,Gaming Consoles,606.62,9936
+241,Wii 5,Nintendo,Gaming Consoles,943.25,14502
+242,Wii 6,Nintendo,Gaming Consoles,281.66,6220
+243,Switch 7,Nintendo,Gaming Consoles,703.22,16676
+244,Wii 8,Nintendo,Gaming Consoles,437.06,18186
+245,Switch 9,Nintendo,Gaming Consoles,560.45,9781
+246,Switch 10,Nintendo,Gaming Consoles,1837.21,9347
+247,PowerShot 1,Canon,Cameras,1738.03,12492
+248,EOS Rebel 2,Canon,Cameras,206.44,23579
+249,EOS Rebel 3,Canon,Cameras,1449.93,23086
+250,EOS Rebel 4,Canon,Cameras,986.3,3546
+251,PowerShot 5,Canon,Cameras,792.88,9832
+252,EOS Rebel 6,Canon,Cameras,1747.05,21085
+253,PowerShot 7,Canon,Cameras,735.87,8019
+254,PowerShot 8,Canon,Cameras,1385.03,5368
+255,PowerShot 9,Canon,Cameras,1651.87,24835
+256,PowerShot 10,Canon,Cameras,1643.39,21923
+257,D3500 1,Nikon,Cameras,332.45,2140
+258,Z6 2,Nikon,Cameras,1056.6,17538
+259,Z6 3,Nikon,Cameras,213.52,19421
+260,D3500 4,Nikon,Cameras,1007.45,5296
+261,Z6 5,Nikon,Cameras,1498.14,2236
+262,D3500 6,Nikon,Cameras,1629.82,10049
+263,D3500 7,Nikon,Cameras,1121.66,21551
+264,Z6 8,Nikon,Cameras,1829.95,24491
+265,Z6 9,Nikon,Cameras,1865.36,24252
+266,D3500 10,Nikon,Cameras,1248.64,11571
+267,Lifebook 1,Fujitsu,Computers,599.7,17119
+268,Lifebook 2,Fujitsu,Computers,789.91,20363
+269,Primergy 3,Fujitsu,Computers,441.49,3275
+270,Lifebook 4,Fujitsu,Computers,896.79,3125
+271,Primergy 5,Fujitsu,Computers,1076.88,13009
+272,Primergy 6,Fujitsu,Computers,1200.73,15549
+273,Lifebook 7,Fujitsu,Computers,1980.66,13505
+274,Primergy 8,Fujitsu,Computers,1522.7,6768
+275,Lifebook 9,Fujitsu,Computers,350.04,13009
+276,Lifebook 10,Fujitsu,Computers,1350.73,22105
+277,Eclipse Cross 1,Mitsubishi,Cars,1039.21,9453
+278,Eclipse Cross 2,Mitsubishi,Cars,1046.87,21079
+279,Outlander 3,Mitsubishi,Cars,1522.35,10956
+280,Eclipse Cross 4,Mitsubishi,Cars,1529.41,15800
+281,Eclipse Cross 5,Mitsubishi,Cars,578.76,2831
+282,Eclipse Cross 1,Mitsubishi,Electronics,1209.35,4356
+283,Eclipse Cross 2,Mitsubishi,Electronics,1035.19,18780
+284,Eclipse Cross 3,Mitsubishi,Electronics,1734.47,2786
+285,Outlander 4,Mitsubishi,Electronics,1313.01,9908
+286,Eclipse Cross 5,Mitsubishi,Electronics,814.23,18559
+287,Grand Piano 1,Yamaha,Musical Instruments,1116.24,18322
+288,Acoustic Guitar 2,Yamaha,Musical Instruments,867.41,23177
+289,YZF Motorcycle 3,Yamaha,Musical Instruments,1087.23,1751
+290,Grand Piano 4,Yamaha,Musical Instruments,1776.23,1520
+291,Acoustic Guitar 5,Yamaha,Musical Instruments,1638.6,23337
+292,YZF Motorcycle 1,Yamaha,Motorcycles,1168.57,8356
+293,Acoustic Guitar 2,Yamaha,Motorcycles,1955.37,6343
+294,Acoustic Guitar 3,Yamaha,Motorcycles,1674.46,5798
+295,Acoustic Guitar 4,Yamaha,Motorcycles,1553.33,16824
+296,Acoustic Guitar 5,Yamaha,Motorcycles,64.6,20523
+297,Galaxy S 1,Samsung,Smartphones,50.23,24760
+298,QLED TV 2,Samsung,Smartphones,954.42,23009
+299,Galaxy S 3,Samsung,Smartphones,207.31,23855
+300,Galaxy S 1,Samsung,Electronics,684.17,14992
+301,Galaxy S 2,Samsung,Electronics,190.79,17264
+302,Galaxy Note 3,Samsung,Electronics,940.8,5936
+303,QLED TV 1,Samsung,Home Appliances,378.61,15408
+304,Galaxy Note 2,Samsung,Home Appliances,43.4,10254
+305,QLED TV 3,Samsung,Home Appliances,1034.5,15357
+306,Refrigerator 1,LG,Electronics,1744.38,24169
+307,Refrigerator 2,LG,Electronics,182.82,12702
+308,Gram Laptop 3,LG,Electronics,1016.3,14730
+309,OLED TV 4,LG,Electronics,970.78,15587
+310,OLED TV 5,LG,Electronics,642.77,24099
+311,Refrigerator 1,LG,Home Appliances,697.66,3823
+312,Refrigerator 2,LG,Home Appliances,236.23,20320
+313,Gram Laptop 3,LG,Home Appliances,1504.77,11399
+314,Refrigerator 4,LG,Home Appliances,1924.81,9902
+315,Gram Laptop 5,LG,Home Appliances,1794.09,10457
+316,Elantra 1,Hyundai,Cars,1122.84,19446
+317,Tucson 2,Hyundai,Cars,1456.5,10536
+318,Tucson 3,Hyundai,Cars,639.69,8499
+319,Elantra 4,Hyundai,Cars,278.18,5573
+320,Sonata 5,Hyundai,Cars,823.58,8757
+321,Tucson 6,Hyundai,Cars,1722.46,21891
+322,Tucson 7,Hyundai,Cars,744.06,6656
+323,Tucson 8,Hyundai,Cars,994.51,5452
+324,Sonata 9,Hyundai,Cars,352.9,24677
+325,Tucson 10,Hyundai,Cars,1418.8,8345
+326,Soul 1,Kia,Cars,838.25,12066
+327,Sorento 2,Kia,Cars,83.6,3105
+328,Sportage 3,Kia,Cars,1997.3,21009
+329,Sportage 4,Kia,Cars,656.93,6810
+330,Sorento 5,Kia,Cars,1122.67,16220
+331,Soul 6,Kia,Cars,781.5,14729
+332,Sorento 7,Kia,Cars,710.06,13476
+333,Soul 8,Kia,Cars,1388.72,14766
+334,Sorento 9,Kia,Cars,832.26,22384
+335,Soul 10,Kia,Cars,593.85,12252
+336,RAM Module 1,SK Hynix,Semiconductors,693.77,4411
+337,RAM Module 2,SK Hynix,Semiconductors,144.04,7103
+338,SSD 3,SK Hynix,Semiconductors,783.5,17680
+339,RAM Module 4,SK Hynix,Semiconductors,1035.87,18348
+340,SSD 5,SK Hynix,Semiconductors,1690.67,16399
+341,SSD 6,SK Hynix,Semiconductors,1236.41,20134
+342,SSD 7,SK Hynix,Semiconductors,1823.19,11312
+343,RAM Module 8,SK Hynix,Semiconductors,42.52,24643
+344,SSD 9,SK Hynix,Semiconductors,1485.63,6534
+345,SSD 10,SK Hynix,Semiconductors,697.43,10525
+346,Bibigo Dumplings 1,CJ Group,Food Products,1493.16,17781
+347,Bibigo Dumplings 2,CJ Group,Food Products,1152.23,8717
+348,Seaweed Snacks 3,CJ Group,Food Products,1547.23,6923
+349,Seaweed Snacks 4,CJ Group,Food Products,294.16,9598
+350,Bibigo Dumplings 5,CJ Group,Food Products,1572.26,8076
+351,Seaweed Snacks 6,CJ Group,Food Products,1356.85,11555
+352,Bibigo Dumplings 7,CJ Group,Food Products,289.33,4888
+353,Bibigo Dumplings 8,CJ Group,Food Products,1505.7,23601
+354,Seaweed Snacks 9,CJ Group,Food Products,1968.66,16494
+355,Seaweed Snacks 10,CJ Group,Food Products,734.23,18672
+356,Papago Translator 1,Naver,Internet Services,77.56,5757
+357,Papago Translator 2,Naver,Internet Services,1801.32,1656
+358,Line App 3,Naver,Internet Services,1547.24,1445
+359,Line App 4,Naver,Internet Services,458.84,21936
+360,Papago Translator 5,Naver,Internet Services,1033.48,7262
+361,Papago Translator 6,Naver,Internet Services,1824.83,10371
+362,Line App 7,Naver,Internet Services,794.32,14485
+363,Line App 8,Naver,Internet Services,950.06,12507
+364,Line App 9,Naver,Internet Services,1259.25,22299
+365,Line App 10,Naver,Internet Services,775.52,21859
+366,KakaoTalk 1,Kakao,Internet Services,1022.5,23232
+367,KakaoTalk 2,Kakao,Internet Services,812.72,5518
+368,KakaoTalk 3,Kakao,Internet Services,303.84,20185
+369,KakaoTalk 4,Kakao,Internet Services,1933.43,23346
+370,KakaoTalk 5,Kakao,Internet Services,1374.34,13456
+371,KakaoTaxi 6,Kakao,Internet Services,1807.78,8862
+372,KakaoTaxi 7,Kakao,Internet Services,1771.25,16165
+373,KakaoTaxi 8,Kakao,Internet Services,688.56,23947
+374,KakaoTalk 9,Kakao,Internet Services,1606.79,21938
+375,KakaoTaxi 10,Kakao,Internet Services,1715.65,13879
+376,Choco Pie 1,Lotte,Retail,1644.61,10092
+377,Pepero 2,Lotte,Retail,1111.41,17871
+378,Pepero 3,Lotte,Retail,1044.51,23942
+379,Choco Pie 4,Lotte,Retail,1295.26,22827
+380,Pepero 5,Lotte,Retail,1260.05,14004
+381,Choco Pie 6,Lotte,Retail,1657.82,6448
+382,Pepero 7,Lotte,Retail,1461.3,13256
+383,Pepero 8,Lotte,Retail,267.42,13654
+384,Choco Pie 9,Lotte,Retail,1127.19,5262
+385,Choco Pie 10,Lotte,Retail,266.92,3116
+386,Steel Sheets 1,Posco,Steel Products,1276.39,4922
+387,Steel Sheets 2,Posco,Steel Products,1434.21,14793
+388,Steel Rods 3,Posco,Steel Products,1723.79,22718
+389,Steel Sheets 4,Posco,Steel Products,963.8,12515
+390,Steel Rods 5,Posco,Steel Products,489.64,17364
+391,Steel Rods 6,Posco,Steel Products,1353.97,6042
+392,Steel Rods 7,Posco,Steel Products,240.49,17963
+393,Steel Sheets 8,Posco,Steel Products,871.5,4483
+394,Steel Rods 9,Posco,Steel Products,325.25,19040
+395,Steel Rods 10,Posco,Steel Products,1996.2,7770
+396,Natural Gas 1,Gazprom,Energy,1929.62,15605
+397,Natural Gas 2,Gazprom,Energy,779.7,13017
+398,Natural Gas 3,Gazprom,Energy,413.33,24185
+399,Natural Gas 4,Gazprom,Energy,264.6,20895
+400,Natural Gas 5,Gazprom,Energy,695.27,9868
+401,Natural Gas 6,Gazprom,Energy,1036.8,5412
+402,Natural Gas 7,Gazprom,Energy,354.64,1253
+403,Natural Gas 8,Gazprom,Energy,1020.08,14303
+404,Natural Gas 9,Gazprom,Energy,1085.22,14687
+405,Natural Gas 10,Gazprom,Energy,186.05,21650
+406,Motor Oil 1,Lukoil,Energy,1458.2,9999
+407,Motor Oil 2,Lukoil,Energy,582.83,8477
+408,Motor Oil 3,Lukoil,Energy,573.23,19108
+409,Motor Oil 4,Lukoil,Energy,1507.46,23743
+410,Motor Oil 5,Lukoil,Energy,1353.43,6936
+411,Motor Oil 6,Lukoil,Energy,302.19,14667
+412,Motor Oil 7,Lukoil,Energy,1851.99,2735
+413,Motor Oil 8,Lukoil,Energy,1473.89,24890
+414,Motor Oil 9,Lukoil,Energy,367.2,6544
+415,Motor Oil 10,Lukoil,Energy,612.82,20889
+416,Petroleum Products 1,Rosneft,Energy,1347.03,19875
+417,Petroleum Products 2,Rosneft,Energy,443.43,16492
+418,Petroleum Products 3,Rosneft,Energy,491.33,3856
+419,Petroleum Products 4,Rosneft,Energy,568.95,20455
+420,Petroleum Products 5,Rosneft,Energy,536.34,14857
+421,Petroleum Products 6,Rosneft,Energy,1851.0,2505
+422,Petroleum Products 7,Rosneft,Energy,1544.65,17409
+423,Petroleum Products 8,Rosneft,Energy,1921.4,8012
+424,Petroleum Products 9,Rosneft,Energy,880.16,19767
+425,Petroleum Products 10,Rosneft,Energy,1529.35,23028
+426,Search Engine Services 1,Yandex,Internet Services,147.47,5451
+427,Taxi App 2,Yandex,Internet Services,254.38,19233
+428,Search Engine Services 3,Yandex,Internet Services,1112.71,13985
+429,Taxi App 4,Yandex,Internet Services,1307.83,23935
+430,Taxi App 5,Yandex,Internet Services,100.39,19800
+431,Search Engine Services 6,Yandex,Internet Services,876.23,13494
+432,Search Engine Services 7,Yandex,Internet Services,127.27,19735
+433,Taxi App 8,Yandex,Internet Services,433.07,7949
+434,Taxi App 9,Yandex,Internet Services,1288.1,8737
+435,Taxi App 10,Yandex,Internet Services,846.09,24536
+436,Antivirus Software 1,Kaspersky,Software,712.17,2515
+437,Antivirus Software 2,Kaspersky,Software,458.15,20279
+438,Antivirus Software 3,Kaspersky,Software,1283.04,9961
+439,Antivirus Software 4,Kaspersky,Software,850.65,12353
+440,Antivirus Software 5,Kaspersky,Software,969.25,7497
+441,Antivirus Software 6,Kaspersky,Software,64.43,20072
+442,Antivirus Software 7,Kaspersky,Software,1838.57,20661
+443,Antivirus Software 8,Kaspersky,Software,702.52,14759
+444,Antivirus Software 9,Kaspersky,Software,481.13,3896
+445,Antivirus Software 10,Kaspersky,Software,1008.32,23375
+446,Flight Tickets 1,Aeroflot,Airlines,704.46,9696
+447,Flight Tickets 2,Aeroflot,Airlines,1890.49,9213
+448,Flight Tickets 3,Aeroflot,Airlines,1219.02,3485
+449,Flight Tickets 4,Aeroflot,Airlines,1112.87,2808
+450,Flight Tickets 5,Aeroflot,Airlines,80.54,8881
+451,Flight Tickets 6,Aeroflot,Airlines,727.95,16345
+452,Flight Tickets 7,Aeroflot,Airlines,1435.33,19224
+453,Flight Tickets 8,Aeroflot,Airlines,1992.48,3101
+454,Flight Tickets 9,Aeroflot,Airlines,863.59,9198
+455,Flight Tickets 10,Aeroflot,Airlines,716.61,17171
+456,Banking Services 1,Sberbank,Financial Services,616.57,15961
+457,Banking Services 2,Sberbank,Financial Services,389.06,13015
+458,Banking Services 3,Sberbank,Financial Services,442.1,13451
+459,Banking Services 4,Sberbank,Financial Services,1277.89,24124
+460,Banking Services 5,Sberbank,Financial Services,973.65,13995
+461,Banking Services 6,Sberbank,Financial Services,1838.04,21301
+462,Banking Services 7,Sberbank,Financial Services,1769.99,10099
+463,Banking Services 8,Sberbank,Financial Services,178.52,4706
+464,Banking Services 9,Sberbank,Financial Services,268.73,12990
+465,Banking Services 10,Sberbank,Financial Services,1794.01,12222
+466,Lada Granta 1,AvtoVAZ,Cars,370.56,8930
+467,Lada Granta 2,AvtoVAZ,Cars,963.49,16140
+468,Lada Granta 3,AvtoVAZ,Cars,555.63,5476
+469,Lada Granta 4,AvtoVAZ,Cars,1940.71,4155
+470,Lada Vesta 5,AvtoVAZ,Cars,260.88,9439
+471,Lada Vesta 6,AvtoVAZ,Cars,486.24,18861
+472,Lada Granta 7,AvtoVAZ,Cars,1408.35,12475
+473,Lada Granta 8,AvtoVAZ,Cars,399.58,21059
+474,Lada Granta 9,AvtoVAZ,Cars,1930.23,20259
+475,Lada Granta 10,AvtoVAZ,Cars,1630.8,17551
+476,Heavy Trucks 1,Kamaz,Trucks,1976.62,14208
+477,Heavy Trucks 2,Kamaz,Trucks,1416.47,6654
+478,Heavy Trucks 3,Kamaz,Trucks,807.82,18557
+479,Heavy Trucks 4,Kamaz,Trucks,538.95,7447
+480,Heavy Trucks 5,Kamaz,Trucks,908.67,20788
+481,Heavy Trucks 6,Kamaz,Trucks,1774.19,10901
+482,Heavy Trucks 7,Kamaz,Trucks,1892.95,8314
+483,Heavy Trucks 8,Kamaz,Trucks,1564.28,21393
+484,Heavy Trucks 9,Kamaz,Trucks,1151.1,7383
+485,Heavy Trucks 10,Kamaz,Trucks,1933.76,22245
+486,Industrial Machinery 1,Rostec,Industrial,52.91,12951
+487,Industrial Machinery 2,Rostec,Industrial,1426.98,14547
+488,Industrial Machinery 3,Rostec,Industrial,1902.91,16969
+489,Industrial Machinery 4,Rostec,Industrial,1667.61,17444
+490,Industrial Machinery 5,Rostec,Industrial,1889.85,9471
+491,Industrial Machinery 6,Rostec,Industrial,933.27,18866
+492,Industrial Machinery 7,Rostec,Industrial,1103.46,16641
+493,Industrial Machinery 8,Rostec,Industrial,284.86,5691
+494,Industrial Machinery 9,Rostec,Industrial,328.11,23761
+495,Industrial Machinery 10,Rostec,Industrial,318.97,6936
+496,E-commerce Platform 1,Shopify,E-commerce,1724.99,5947
+497,E-commerce Platform 2,Shopify,E-commerce,731.2,19584
+498,E-commerce Platform 3,Shopify,E-commerce,1833.27,21819
+499,E-commerce Platform 4,Shopify,E-commerce,60.91,20117
+500,E-commerce Platform 5,Shopify,E-commerce,1240.76,16500
+501,E-commerce Platform 6,Shopify,E-commerce,1930.72,6144
+502,E-commerce Platform 7,Shopify,E-commerce,1329.74,1130
+503,E-commerce Platform 8,Shopify,E-commerce,1573.13,6082
+504,E-commerce Platform 9,Shopify,E-commerce,1049.33,5234
+505,E-commerce Platform 10,Shopify,E-commerce,1680.76,12382
+506,Global Jet 1,Bombardier,Aircraft,1128.83,6282
+507,Global Jet 2,Bombardier,Aircraft,240.14,20537
+508,Challenger Jet 3,Bombardier,Aircraft,851.36,16472
+509,Global Jet 4,Bombardier,Aircraft,887.83,2217
+510,Global Jet 5,Bombardier,Aircraft,1652.08,4363
+511,Global Jet 1,Bombardier,Transportation,455.63,5329
+512,Challenger Jet 2,Bombardier,Transportation,1585.62,7506
+513,Challenger Jet 3,Bombardier,Transportation,1482.97,1321
+514,Global Jet 4,Bombardier,Transportation,801.55,20782
+515,Global Jet 5,Bombardier,Transportation,645.5,1701
+516,Smartphones 1,BlackBerry,Software,638.97,20937
+517,Smartphones 2,BlackBerry,Software,802.64,17296
+518,Smartphones 3,BlackBerry,Software,198.29,7617
+519,Enterprise Software 4,BlackBerry,Software,1595.45,13803
+520,Enterprise Software 5,BlackBerry,Software,796.49,19140
+521,Enterprise Software 1,BlackBerry,Smartphones,1067.89,14743
+522,Enterprise Software 2,BlackBerry,Smartphones,1609.75,20440
+523,Enterprise Software 3,BlackBerry,Smartphones,1376.07,2281
+524,Enterprise Software 4,BlackBerry,Smartphones,1720.08,4861
+525,Enterprise Software 5,BlackBerry,Smartphones,1546.69,6997
+526,Athletic Wear 1,Lululemon,Clothing,1395.03,24333
+527,Yoga Pants 2,Lululemon,Clothing,1523.39,9056
+528,Yoga Pants 3,Lululemon,Clothing,1583.1,7861
+529,Yoga Pants 4,Lululemon,Clothing,1257.86,16098
+530,Yoga Pants 5,Lululemon,Clothing,1030.35,2262
+531,Athletic Wear 6,Lululemon,Clothing,1956.21,14786
+532,Athletic Wear 7,Lululemon,Clothing,274.58,9319
+533,Yoga Pants 8,Lululemon,Clothing,241.03,12912
+534,Athletic Wear 9,Lululemon,Clothing,1190.17,10229
+535,Athletic Wear 10,Lululemon,Clothing,1998.25,13660
+536,Auto Parts 1,Magna International,Automotive Parts,333.07,7949
+537,Auto Parts 2,Magna International,Automotive Parts,1017.41,8230
+538,Auto Parts 3,Magna International,Automotive Parts,1963.05,21684
+539,Auto Parts 4,Magna International,Automotive Parts,403.14,13088
+540,Auto Parts 5,Magna International,Automotive Parts,1036.17,12917
+541,Auto Parts 6,Magna International,Automotive Parts,1911.03,16444
+542,Auto Parts 7,Magna International,Automotive Parts,1401.92,5286
+543,Auto Parts 8,Magna International,Automotive Parts,33.28,8300
+544,Auto Parts 9,Magna International,Automotive Parts,1729.81,11499
+545,Auto Parts 10,Magna International,Automotive Parts,556.75,13498
+546,Petroleum Products 1,Suncor Energy,Energy,1805.92,19560
+547,Petroleum Products 2,Suncor Energy,Energy,315.44,10661
+548,Petroleum Products 3,Suncor Energy,Energy,600.42,23155
+549,Petroleum Products 4,Suncor Energy,Energy,1094.79,11669
+550,Petroleum Products 5,Suncor Energy,Energy,344.48,8886
+551,Petroleum Products 6,Suncor Energy,Energy,1867.36,14210
+552,Petroleum Products 7,Suncor Energy,Energy,1678.76,2933
+553,Petroleum Products 8,Suncor Energy,Energy,861.03,11947
+554,Petroleum Products 9,Suncor Energy,Energy,690.83,17130
+555,Petroleum Products 10,Suncor Energy,Energy,1384.67,12386
+556,Mobile Plans 1,Telus,Telecom,1708.81,16618
+557,Mobile Plans 2,Telus,Telecom,1553.69,20380
+558,Mobile Plans 3,Telus,Telecom,45.06,14308
+559,Mobile Plans 4,Telus,Telecom,1816.96,24408
+560,Mobile Plans 5,Telus,Telecom,1419.34,22836
+561,Mobile Plans 6,Telus,Telecom,1872.59,15204
+562,Mobile Plans 7,Telus,Telecom,513.47,18697
+563,Mobile Plans 8,Telus,Telecom,1592.15,23873
+564,Mobile Plans 9,Telus,Telecom,869.96,24135
+565,Mobile Plans 10,Telus,Telecom,1272.59,18777
+566,BlackBerry Devices 1,RIM,Software,1975.4,2802
+567,BlackBerry Devices 2,RIM,Software,976.48,16389
+568,BlackBerry Devices 3,RIM,Software,1459.99,2440
+569,BlackBerry Devices 4,RIM,Software,791.99,14608
+570,BlackBerry Devices 5,RIM,Software,627.07,6999
+571,BlackBerry Devices 6,RIM,Software,1328.78,1917
+572,BlackBerry Devices 7,RIM,Software,1800.51,16827
+573,BlackBerry Devices 8,RIM,Software,1702.45,10052
+574,BlackBerry Devices 9,RIM,Software,1511.13,3390
+575,BlackBerry Devices 10,RIM,Software,222.72,4481
+576,Flight Tickets 1,Air Canada,Airlines,1532.94,15187
+577,Flight Tickets 2,Air Canada,Airlines,1433.31,15254
+578,Flight Tickets 3,Air Canada,Airlines,1593.08,18179
+579,Flight Tickets 4,Air Canada,Airlines,196.83,17541
+580,Flight Tickets 5,Air Canada,Airlines,642.52,21859
+581,Flight Tickets 6,Air Canada,Airlines,428.98,11766
+582,Flight Tickets 7,Air Canada,Airlines,754.41,4279
+583,Flight Tickets 8,Air Canada,Airlines,1566.25,7803
+584,Flight Tickets 9,Air Canada,Airlines,1611.17,2937
+585,Flight Tickets 10,Air Canada,Airlines,1461.22,22047
+586,Retail Products 1,Hudson's Bay,Retail,840.33,19619
+587,Retail Products 2,Hudson's Bay,Retail,169.81,24686
+588,Retail Products 3,Hudson's Bay,Retail,1397.72,8573
+589,Retail Products 4,Hudson's Bay,Retail,1705.75,21737
+590,Retail Products 5,Hudson's Bay,Retail,1497.1,16457
+591,Retail Products 6,Hudson's Bay,Retail,1147.08,16935
+592,Retail Products 7,Hudson's Bay,Retail,1320.15,5971
+593,Retail Products 8,Hudson's Bay,Retail,793.19,13316
+594,Retail Products 9,Hudson's Bay,Retail,1448.24,17036
+595,Retail Products 10,Hudson's Bay,Retail,1129.38,6773
+596,Tiguan 1,Volkswagen,Cars,170.35,17232
+597,Passat 2,Volkswagen,Cars,1271.22,20018
+598,Golf 3,Volkswagen,Cars,1973.83,9719
+599,Passat 4,Volkswagen,Cars,930.1,22555
+600,Tiguan 5,Volkswagen,Cars,1170.29,16104
+601,Tiguan 6,Volkswagen,Cars,1815.72,13003
+602,Passat 7,Volkswagen,Cars,1785.27,12503
+603,Tiguan 8,Volkswagen,Cars,147.28,16952
+604,Tiguan 9,Volkswagen,Cars,675.96,9405
+605,Tiguan 10,Volkswagen,Cars,33.0,22899
+606,S-Class 1,Daimler,Cars,341.08,14348
+607,S-Class 2,Daimler,Cars,1877.2,23471
+608,S-Class 3,Daimler,Cars,1497.64,7304
+609,Mercedes-Benz C-Class 4,Daimler,Cars,1222.09,21662
+610,E-Class 5,Daimler,Cars,1825.46,9377
+611,Mercedes-Benz C-Class 6,Daimler,Cars,957.23,10147
+612,E-Class 7,Daimler,Cars,809.15,8982
+613,S-Class 8,Daimler,Cars,1973.55,22082
+614,S-Class 9,Daimler,Cars,1087.75,20010
+615,Mercedes-Benz C-Class 10,Daimler,Cars,975.48,2031
+616,X5 1,BMW,Cars,477.16,6971
+617,X5 2,BMW,Cars,402.34,15269
+618,X5 3,BMW,Cars,740.2,21345
+619,X5 4,BMW,Cars,1472.78,8978
+620,i8 5,BMW,Cars,1840.72,22556
+621,3 Series 6,BMW,Cars,927.68,9528
+622,3 Series 7,BMW,Cars,936.51,2277
+623,3 Series 8,BMW,Cars,1941.98,16849
+624,i8 9,BMW,Cars,1269.03,24600
+625,3 Series 10,BMW,Cars,1319.47,12704
+626,MRI Machine 1,Siemens,Electronics,1674.63,9185
+627,Wind Turbines 2,Siemens,Electronics,515.56,19132
+628,Wind Turbines 3,Siemens,Electronics,167.55,15159
+629,Wind Turbines 4,Siemens,Electronics,1559.82,5101
+630,Wind Turbines 5,Siemens,Electronics,838.74,17998
+631,MRI Machine 1,Siemens,Industrial,400.61,24546
+632,MRI Machine 2,Siemens,Industrial,1749.62,10533
+633,Wind Turbines 3,Siemens,Industrial,728.59,12121
+634,MRI Machine 4,Siemens,Industrial,903.67,22257
+635,Wind Turbines 5,Siemens,Industrial,1310.19,21877
+636,Sonicare Toothbrush 1,Philips,Electronics,1387.81,3641
+637,Sonicare Toothbrush 2,Philips,Electronics,714.09,17951
+638,Sonicare Toothbrush 3,Philips,Electronics,1151.21,13111
+639,Sonicare Toothbrush 4,Philips,Electronics,1381.64,3619
+640,Hue Lighting 5,Philips,Electronics,1759.27,6490
+641,Hue Lighting 1,Philips,Home Appliances,1058.14,16094
+642,Hue Lighting 2,Philips,Home Appliances,863.58,7347
+643,Hue Lighting 3,Philips,Home Appliances,1794.91,12244
+644,Hue Lighting 4,Philips,Home Appliances,781.82,4468
+645,Hue Lighting 5,Philips,Home Appliances,661.08,3175
+646,A320 1,Airbus,Aircraft,772.08,18065
+647,A320 2,Airbus,Aircraft,745.47,19343
+648,A380 3,Airbus,Aircraft,410.92,20215
+649,A380 4,Airbus,Aircraft,126.71,11797
+650,A380 5,Airbus,Aircraft,1634.15,21263
+651,A320 6,Airbus,Aircraft,128.53,23526
+652,A380 7,Airbus,Aircraft,1165.88,12826
+653,A320 8,Airbus,Aircraft,144.47,3780
+654,A380 9,Airbus,Aircraft,1680.48,16998
+655,A320 10,Airbus,Aircraft,382.97,23190
+656,Dove Soap 1,Unilever,Consumer Goods,1151.6,21102
+657,Magnum Ice Cream 2,Unilever,Consumer Goods,1622.05,15527
+658,Dove Soap 3,Unilever,Consumer Goods,1324.5,6214
+659,Magnum Ice Cream 4,Unilever,Consumer Goods,1868.1,12743
+660,Magnum Ice Cream 5,Unilever,Consumer Goods,1960.99,22226
+661,Dove Soap 6,Unilever,Consumer Goods,1458.31,17473
+662,Dove Soap 7,Unilever,Consumer Goods,1577.84,13639
+663,Magnum Ice Cream 8,Unilever,Consumer Goods,1394.58,23739
+664,Dove Soap 9,Unilever,Consumer Goods,351.05,10993
+665,Dove Soap 10,Unilever,Consumer Goods,377.58,5831
+666,KitKat 1,Nestle,Food Products,1997.67,17000
+667,KitKat 2,Nestle,Food Products,695.86,14319
+668,KitKat 3,Nestle,Food Products,936.74,3324
+669,KitKat 4,Nestle,Food Products,336.93,1281
+670,Nescafe 5,Nestle,Food Products,864.35,12430
+671,Nescafe 6,Nestle,Food Products,473.86,23297
+672,KitKat 7,Nestle,Food Products,676.5,12926
+673,Nescafe 8,Nestle,Food Products,1022.62,9366
+674,Nescafe 9,Nestle,Food Products,947.19,8132
+675,KitKat 10,Nestle,Food Products,1949.91,23269
+676,Moet & Chandon Champagne 1,LVMH,Luxury Goods,1071.93,19692
+677,Louis Vuitton Bag 2,LVMH,Luxury Goods,185.48,4031
+678,Louis Vuitton Bag 3,LVMH,Luxury Goods,839.29,9355
+679,Moet & Chandon Champagne 4,LVMH,Luxury Goods,1925.29,7417
+680,Louis Vuitton Bag 5,LVMH,Luxury Goods,636.52,1403
+681,Moet & Chandon Champagne 6,LVMH,Luxury Goods,666.27,8300
+682,Louis Vuitton Bag 7,LVMH,Luxury Goods,193.21,16112
+683,Moet & Chandon Champagne 8,LVMH,Luxury Goods,1945.92,2748
+684,Louis Vuitton Bag 9,LVMH,Luxury Goods,1129.24,7812
+685,Louis Vuitton Bag 10,LVMH,Luxury Goods,771.01,12432
+686,ERP Software 1,SAP,Software,1525.59,4260
+687,ERP Software 2,SAP,Software,1339.87,8579
+688,ERP Software 3,SAP,Software,1097.92,10692
+689,ERP Software 4,SAP,Software,1397.9,12666
+690,ERP Software 5,SAP,Software,1493.99,6201
+691,ERP Software 6,SAP,Software,1482.88,9762
+692,ERP Software 7,SAP,Software,515.6,12481
+693,ERP Software 8,SAP,Software,931.03,15371
+694,ERP Software 9,SAP,Software,914.83,7234
+695,ERP Software 10,SAP,Software,425.96,7947
+696,Copper 1,BHP,Mining,452.15,2646
+697,Copper 2,BHP,Mining,985.83,6508
+698,Copper 3,BHP,Mining,1082.13,22837
+699,Copper 4,BHP,Mining,919.54,23672
+700,Iron Ore 5,BHP,Mining,990.87,15349
+701,Copper 6,BHP,Mining,983.66,7560
+702,Iron Ore 7,BHP,Mining,1323.31,6877
+703,Iron Ore 8,BHP,Mining,118.01,17334
+704,Iron Ore 9,BHP,Mining,496.01,15221
+705,Copper 10,BHP,Mining,825.84,21981
+706,Minerals 1,Rio Tinto,Mining,1483.4,5120
+707,Aluminum 2,Rio Tinto,Mining,725.95,22846
+708,Minerals 3,Rio Tinto,Mining,196.55,9078
+709,Aluminum 4,Rio Tinto,Mining,175.54,15392
+710,Minerals 5,Rio Tinto,Mining,356.41,2708
+711,Minerals 6,Rio Tinto,Mining,105.32,23022
+712,Aluminum 7,Rio Tinto,Mining,1806.37,11218
+713,Minerals 8,Rio Tinto,Mining,294.2,5982
+714,Minerals 9,Rio Tinto,Mining,1573.61,21693
+715,Aluminum 10,Rio Tinto,Mining,275.88,2237
+716,Banking Services 1,Commonwealth Bank,Financial Services,1971.25,11701
+717,Banking Services 2,Commonwealth Bank,Financial Services,792.57,8318
+718,Banking Services 3,Commonwealth Bank,Financial Services,817.47,10815
+719,Banking Services 4,Commonwealth Bank,Financial Services,1161.07,23153
+720,Banking Services 5,Commonwealth Bank,Financial Services,1301.64,8016
+721,Banking Services 6,Commonwealth Bank,Financial Services,393.39,5975
+722,Banking Services 7,Commonwealth Bank,Financial Services,1662.8,5121
+723,Banking Services 8,Commonwealth Bank,Financial Services,1038.65,11697
+724,Banking Services 9,Commonwealth Bank,Financial Services,1667.47,14649
+725,Banking Services 10,Commonwealth Bank,Financial Services,1265.45,16797
+726,Mobile Plans 1,Telstra,Telecom,456.81,15771
+727,Mobile Plans 2,Telstra,Telecom,1099.3,13123
+728,Mobile Plans 3,Telstra,Telecom,616.33,16066
+729,Mobile Plans 4,Telstra,Telecom,1920.52,24647
+730,Mobile Plans 5,Telstra,Telecom,1336.11,6770
+731,Mobile Plans 6,Telstra,Telecom,1106.35,21298
+732,Mobile Plans 7,Telstra,Telecom,197.62,21796
+733,Mobile Plans 8,Telstra,Telecom,174.71,7798
+734,Mobile Plans 9,Telstra,Telecom,305.5,16422
+735,Mobile Plans 10,Telstra,Telecom,1903.4,9296
+736,Groceries 1,Woolworths,Retail,497.92,11579
+737,Groceries 2,Woolworths,Retail,389.51,6507
+738,Groceries 3,Woolworths,Retail,1361.37,12154
+739,Groceries 4,Woolworths,Retail,235.38,23121
+740,Groceries 5,Woolworths,Retail,1162.0,17167
+741,Groceries 6,Woolworths,Retail,1414.83,22494
+742,Groceries 7,Woolworths,Retail,566.08,1378
+743,Groceries 8,Woolworths,Retail,1784.78,14433
+744,Groceries 9,Woolworths,Retail,821.51,17182
+745,Groceries 10,Woolworths,Retail,292.74,13935
+746,Flight Tickets 1,Qantas,Airlines,323.44,19578
+747,Flight Tickets 2,Qantas,Airlines,1109.68,1086
+748,Flight Tickets 3,Qantas,Airlines,260.42,22419
+749,Flight Tickets 4,Qantas,Airlines,1237.62,9138
+750,Flight Tickets 5,Qantas,Airlines,296.64,18171
+751,Flight Tickets 6,Qantas,Airlines,504.79,24803
+752,Flight Tickets 7,Qantas,Airlines,1730.39,23592
+753,Flight Tickets 8,Qantas,Airlines,1144.83,5052
+754,Flight Tickets 9,Qantas,Airlines,1530.94,22778
+755,Flight Tickets 10,Qantas,Airlines,1135.91,22791
+756,Jira Software 1,Atlassian,Software,1839.84,15054
+757,Jira Software 2,Atlassian,Software,1550.03,1917
+758,Jira Software 3,Atlassian,Software,1821.77,6531
+759,Jira Software 4,Atlassian,Software,1521.47,11745
+760,Jira Software 5,Atlassian,Software,693.06,12352
+761,Jira Software 6,Atlassian,Software,650.88,16305
+762,Jira Software 7,Atlassian,Software,948.78,5885
+763,Confluence 8,Atlassian,Software,267.64,19569
+764,Confluence 9,Atlassian,Software,1313.32,1928
+765,Jira Software 10,Atlassian,Software,1115.13,10187
+766,Iron Ore 1,Fortescue Metals,Mining,563.65,16298
+767,Iron Ore 2,Fortescue Metals,Mining,1377.37,21453
+768,Iron Ore 3,Fortescue Metals,Mining,1188.46,15522
+769,Iron Ore 4,Fortescue Metals,Mining,860.14,5084
+770,Iron Ore 5,Fortescue Metals,Mining,1696.12,9164
+771,Iron Ore 6,Fortescue Metals,Mining,1284.39,16005
+772,Iron Ore 7,Fortescue Metals,Mining,310.16,10650
+773,Iron Ore 8,Fortescue Metals,Mining,325.48,23595
+774,Iron Ore 9,Fortescue Metals,Mining,1824.16,1526
+775,Iron Ore 10,Fortescue Metals,Mining,1990.87,11488
+776,Groceries 1,Coles Group,Retail,879.31,16792
+777,Groceries 2,Coles Group,Retail,1368.47,3755
+778,Groceries 3,Coles Group,Retail,1529.38,24912
+779,Groceries 4,Coles Group,Retail,1770.08,15658
+780,Groceries 5,Coles Group,Retail,1438.67,20623
+781,Groceries 6,Coles Group,Retail,1643.63,14197
+782,Groceries 7,Coles Group,Retail,1064.9,6991
+783,Groceries 8,Coles Group,Retail,1603.17,12991
+784,Groceries 9,Coles Group,Retail,1919.44,24032
+785,Groceries 10,Coles Group,Retail,1386.24,15568
+786,Financial Services 1,Macquarie Group,Financial Services,617.44,9163
+787,Financial Services 2,Macquarie Group,Financial Services,742.79,1375
+788,Financial Services 3,Macquarie Group,Financial Services,1537.91,1594
+789,Financial Services 4,Macquarie Group,Financial Services,1852.84,17488
+790,Financial Services 5,Macquarie Group,Financial Services,1685.76,20517
+791,Financial Services 6,Macquarie Group,Financial Services,1238.4,15199
+792,Financial Services 7,Macquarie Group,Financial Services,1718.44,4200
+793,Financial Services 8,Macquarie Group,Financial Services,578.35,13453
+794,Financial Services 9,Macquarie Group,Financial Services,459.9,13229
+795,Financial Services 10,Macquarie Group,Financial Services,1469.54,20849
+796,MateBook X Pro 1,Huawei,Smartphones,127.17,13064
+797,MateBook X Pro 2,Huawei,Smartphones,93.77,15023
+798,P30 Pro 3,Huawei,Smartphones,1496.32,12906
+799,P30 Pro 4,Huawei,Smartphones,1724.21,9886
+800,P30 Pro 5,Huawei,Smartphones,478.44,18383
+801,MateBook X Pro 1,Huawei,Telecom Equipment,403.12,6186
+802,MateBook X Pro 2,Huawei,Telecom Equipment,1380.36,16652
+803,MateBook X Pro 3,Huawei,Telecom Equipment,31.25,4172
+804,MateBook X Pro 4,Huawei,Telecom Equipment,897.36,4796
+805,P30 Pro 5,Huawei,Telecom Equipment,289.85,15841
+806,E-commerce Platform 1,Alibaba,E-commerce,1872.06,18746
+807,E-commerce Platform 2,Alibaba,E-commerce,607.02,8242
+808,E-commerce Platform 3,Alibaba,E-commerce,822.02,12727
+809,E-commerce Platform 4,Alibaba,E-commerce,675.28,12815
+810,E-commerce Platform 5,Alibaba,E-commerce,1127.19,19096
+811,E-commerce Platform 6,Alibaba,E-commerce,564.95,16914
+812,E-commerce Platform 7,Alibaba,E-commerce,404.76,8017
+813,E-commerce Platform 8,Alibaba,E-commerce,629.08,19287
+814,E-commerce Platform 9,Alibaba,E-commerce,612.89,24166
+815,E-commerce Platform 10,Alibaba,E-commerce,1195.43,19657
+816,WeChat 1,Tencent,Internet Services,1776.19,11924
+817,QQ Messenger 2,Tencent,Internet Services,1432.15,24680
+818,QQ Messenger 3,Tencent,Internet Services,1983.75,18889
+819,QQ Messenger 4,Tencent,Internet Services,476.86,13499
+820,WeChat 5,Tencent,Internet Services,1374.27,11053
+821,WeChat 6,Tencent,Internet Services,1967.98,20653
+822,WeChat 7,Tencent,Internet Services,1268.36,5819
+823,QQ Messenger 8,Tencent,Internet Services,1699.68,5146
+824,QQ Messenger 9,Tencent,Internet Services,380.02,13250
+825,QQ Messenger 10,Tencent,Internet Services,1165.06,13856
+826,Mi 10 1,Xiaomi,Electronics,1852.09,11448
+827,Redmi Note 2,Xiaomi,Electronics,1328.96,5075
+828,Mi 10 3,Xiaomi,Electronics,476.19,21855
+829,Redmi Note 4,Xiaomi,Electronics,1312.95,14752
+830,Redmi Note 5,Xiaomi,Electronics,1645.55,14296
+831,Mi 10 1,Xiaomi,Smartphones,1932.1,16276
+832,Mi 10 2,Xiaomi,Smartphones,1634.91,1352
+833,Mi 10 3,Xiaomi,Smartphones,1450.61,21698
+834,Mi 10 4,Xiaomi,Smartphones,1393.91,12068
+835,Mi 10 5,Xiaomi,Smartphones,656.84,13742
+836,Yoga Laptop 1,Lenovo,Computers,562.26,15458
+837,Yoga Laptop 2,Lenovo,Computers,646.93,21199
+838,Yoga Laptop 3,Lenovo,Computers,1880.36,17514
+839,Yoga Laptop 4,Lenovo,Computers,1512.53,11177
+840,Yoga Laptop 5,Lenovo,Computers,630.05,11539
+841,Yoga Laptop 1,Lenovo,Smartphones,1946.41,9439
+842,ThinkPad 2,Lenovo,Smartphones,1549.88,11663
+843,Yoga Laptop 3,Lenovo,Smartphones,1022.68,22187
+844,ThinkPad 4,Lenovo,Smartphones,1076.32,22508
+845,ThinkPad 5,Lenovo,Smartphones,1222.62,16394
+846,Electric Cars 1,BYD,Cars,1342.22,20682
+847,Electric Cars 2,BYD,Cars,282.3,5178
+848,Electric Cars 3,BYD,Cars,1233.07,7859
+849,Electric Cars 4,BYD,Cars,1164.52,23616
+850,Electric Cars 5,BYD,Cars,670.04,24177
+851,Electric Cars 6,BYD,Cars,1200.7,8375
+852,Electric Cars 7,BYD,Cars,821.56,1248
+853,Electric Cars 8,BYD,Cars,373.35,2482
+854,Electric Cars 9,BYD,Cars,516.13,16350
+855,Electric Cars 10,BYD,Cars,1809.77,22988
+856,Coolray 1,Geely,Cars,366.26,11036
+857,Azkarra 2,Geely,Cars,1892.99,9828
+858,Coolray 3,Geely,Cars,979.58,5007
+859,Coolray 4,Geely,Cars,884.52,21583
+860,Coolray 5,Geely,Cars,1630.07,24869
+861,Azkarra 6,Geely,Cars,351.19,20279
+862,Azkarra 7,Geely,Cars,1253.42,23469
+863,Azkarra 8,Geely,Cars,624.04,24382
+864,Coolray 9,Geely,Cars,392.56,24968
+865,Coolray 10,Geely,Cars,1960.35,3711
+866,Refrigerator 1,Haier,Home Appliances,243.72,13299
+867,Refrigerator 2,Haier,Home Appliances,723.8,21959
+868,Washing Machine 3,Haier,Home Appliances,989.0,17778
+869,Refrigerator 4,Haier,Home Appliances,1023.27,24934
+870,Washing Machine 5,Haier,Home Appliances,1433.43,2238
+871,Washing Machine 6,Haier,Home Appliances,1562.58,11595
+872,Refrigerator 7,Haier,Home Appliances,1197.87,16931
+873,Refrigerator 8,Haier,Home Appliances,315.76,3640
+874,Refrigerator 9,Haier,Home Appliances,1943.18,3860
+875,Refrigerator 10,Haier,Home Appliances,96.91,3697
+876,Phantom Drone 1,DJI,Drones,577.36,20790
+877,Mavic Drone 2,DJI,Drones,486.37,21386
+878,Mavic Drone 3,DJI,Drones,798.72,12880
+879,Mavic Drone 4,DJI,Drones,1631.3,2064
+880,Mavic Drone 5,DJI,Drones,1296.38,21644
+881,Mavic Drone 6,DJI,Drones,1572.24,14677
+882,Phantom Drone 7,DJI,Drones,1756.37,9768
+883,Mavic Drone 8,DJI,Drones,752.42,15003
+884,Mavic Drone 9,DJI,Drones,926.45,9751
+885,Phantom Drone 10,DJI,Drones,434.31,12162
+886,Petroleum Products 1,Sinopec,Energy,384.29,20659
+887,Petroleum Products 2,Sinopec,Energy,1046.05,12737
+888,Petroleum Products 3,Sinopec,Energy,557.98,10212
+889,Petroleum Products 4,Sinopec,Energy,1849.57,5581
+890,Petroleum Products 5,Sinopec,Energy,465.69,17302
+891,Petroleum Products 6,Sinopec,Energy,1548.81,14638
+892,Petroleum Products 7,Sinopec,Energy,835.93,2329
+893,Petroleum Products 8,Sinopec,Energy,960.29,6991
+894,Petroleum Products 9,Sinopec,Energy,1401.8,20083
+895,Petroleum Products 10,Sinopec,Energy,1710.2,23210
+896,Motor Oil 1,BP,Energy,250.45,1468
+897,Motor Oil 2,BP,Energy,481.44,2478
+898,Fuel 3,BP,Energy,1045.65,6771
+899,Motor Oil 4,BP,Energy,1578.35,23644
+900,Motor Oil 5,BP,Energy,864.47,5459
+901,Fuel 6,BP,Energy,1031.34,19691
+902,Motor Oil 7,BP,Energy,1972.73,18695
+903,Fuel 8,BP,Energy,306.9,8250
+904,Fuel 9,BP,Energy,1559.28,2882
+905,Fuel 10,BP,Energy,627.48,20594
+906,Fuel 1,Shell,Energy,311.97,9634
+907,Fuel 2,Shell,Energy,561.85,19452
+908,Fuel 3,Shell,Energy,459.21,23882
+909,Lubricants 4,Shell,Energy,1530.31,9723
+910,Fuel 5,Shell,Energy,1418.97,8690
+911,Fuel 6,Shell,Energy,788.33,8175
+912,Lubricants 7,Shell,Energy,1644.5,18658
+913,Fuel 8,Shell,Energy,439.77,1317
+914,Fuel 9,Shell,Energy,1246.12,2525
+915,Lubricants 10,Shell,Energy,848.5,16399
+916,Dove Soap 1,Unilever,Consumer Goods,130.67,12696
+917,Dove Soap 2,Unilever,Consumer Goods,529.38,15262
+918,Magnum Ice Cream 3,Unilever,Consumer Goods,762.05,5439
+919,Dove Soap 4,Unilever,Consumer Goods,148.52,20203
+920,Dove Soap 5,Unilever,Consumer Goods,703.63,14550
+921,Dove Soap 6,Unilever,Consumer Goods,1617.23,5911
+922,Magnum Ice Cream 7,Unilever,Consumer Goods,277.58,13642
+923,Magnum Ice Cream 8,Unilever,Consumer Goods,1438.22,10496
+924,Magnum Ice Cream 9,Unilever,Consumer Goods,535.3,1161
+925,Dove Soap 10,Unilever,Consumer Goods,1127.37,8477
+926,Pharmaceuticals 1,AstraZeneca,Pharmaceuticals,447.21,12504
+927,Pharmaceuticals 2,AstraZeneca,Pharmaceuticals,1244.84,17557
+928,Pharmaceuticals 3,AstraZeneca,Pharmaceuticals,1112.31,7509
+929,Pharmaceuticals 4,AstraZeneca,Pharmaceuticals,889.51,5356
+930,Pharmaceuticals 5,AstraZeneca,Pharmaceuticals,110.76,9055
+931,Pharmaceuticals 6,AstraZeneca,Pharmaceuticals,1391.59,20059
+932,Pharmaceuticals 7,AstraZeneca,Pharmaceuticals,1634.21,8817
+933,Pharmaceuticals 8,AstraZeneca,Pharmaceuticals,360.27,24375
+934,Pharmaceuticals 9,AstraZeneca,Pharmaceuticals,462.51,16381
+935,Pharmaceuticals 10,AstraZeneca,Pharmaceuticals,787.67,2813
+936,Mobile Plans 1,Vodafone,Telecom,1873.07,4001
+937,Mobile Plans 2,Vodafone,Telecom,1290.41,2858
+938,Mobile Plans 3,Vodafone,Telecom,1718.34,14342
+939,Mobile Plans 4,Vodafone,Telecom,948.02,24696
+940,Mobile Plans 5,Vodafone,Telecom,338.25,7050
+941,Mobile Plans 6,Vodafone,Telecom,1648.38,3695
+942,Mobile Plans 7,Vodafone,Telecom,658.21,6710
+943,Mobile Plans 8,Vodafone,Telecom,698.48,13993
+944,Mobile Plans 9,Vodafone,Telecom,1363.32,20971
+945,Mobile Plans 10,Vodafone,Telecom,655.96,17808
+946,Banking Services 1,HSBC,Financial Services,323.79,4059
+947,Banking Services 2,HSBC,Financial Services,1322.83,8513
+948,Banking Services 3,HSBC,Financial Services,931.48,13017
+949,Banking Services 4,HSBC,Financial Services,655.95,14494
+950,Banking Services 5,HSBC,Financial Services,376.07,7978
+951,Banking Services 6,HSBC,Financial Services,1162.82,5611
+952,Banking Services 7,HSBC,Financial Services,1429.03,14323
+953,Banking Services 8,HSBC,Financial Services,1122.69,20737
+954,Banking Services 9,HSBC,Financial Services,1806.06,4617
+955,Banking Services 10,HSBC,Financial Services,1758.18,18737
+956,Financial Services 1,Barclays,Financial Services,1971.17,10293
+957,Financial Services 2,Barclays,Financial Services,1363.76,24662
+958,Financial Services 3,Barclays,Financial Services,334.34,4606
+959,Financial Services 4,Barclays,Financial Services,1899.94,19377
+960,Financial Services 5,Barclays,Financial Services,94.14,16569
+961,Financial Services 6,Barclays,Financial Services,703.45,12204
+962,Financial Services 7,Barclays,Financial Services,1087.85,11835
+963,Financial Services 8,Barclays,Financial Services,1976.9,4449
+964,Financial Services 9,Barclays,Financial Services,1490.64,11926
+965,Financial Services 10,Barclays,Financial Services,281.59,24326
+966,Range Rover Evoque 1,Jaguar Land Rover,Cars,1403.91,21750
+967,Range Rover Evoque 2,Jaguar Land Rover,Cars,493.17,22413
+968,Range Rover Evoque 3,Jaguar Land Rover,Cars,970.73,18374
+969,Jaguar XF 4,Jaguar Land Rover,Cars,354.91,3354
+970,Range Rover Evoque 5,Jaguar Land Rover,Cars,182.02,6683
+971,Jaguar XF 6,Jaguar Land Rover,Cars,891.55,10418
+972,Jaguar XF 7,Jaguar Land Rover,Cars,824.47,6897
+973,Jaguar XF 8,Jaguar Land Rover,Cars,946.74,11914
+974,Range Rover Evoque 9,Jaguar Land Rover,Cars,49.48,10032
+975,Range Rover Evoque 10,Jaguar Land Rover,Cars,21.37,6596
+976,Aero Engines 1,Rolls-Royce,Aerospace,851.54,23931
+977,Aero Engines 2,Rolls-Royce,Aerospace,1901.61,8076
+978,Aero Engines 3,Rolls-Royce,Aerospace,688.65,8890
+979,Aero Engines 4,Rolls-Royce,Aerospace,1259.22,4729
+980,Aero Engines 5,Rolls-Royce,Aerospace,463.43,9450
+981,Aero Engines 6,Rolls-Royce,Aerospace,348.25,9320
+982,Aero Engines 7,Rolls-Royce,Aerospace,1679.23,4079
+983,Aero Engines 8,Rolls-Royce,Aerospace,515.88,9485
+984,Aero Engines 9,Rolls-Royce,Aerospace,1908.82,1892
+985,Aero Engines 10,Rolls-Royce,Aerospace,1346.68,9583
+986,Medicines 1,GlaxoSmithKline,Pharmaceuticals,420.39,20502
+987,Medicines 2,GlaxoSmithKline,Pharmaceuticals,1355.5,10024
+988,Medicines 3,GlaxoSmithKline,Pharmaceuticals,433.15,2087
+989,Vaccines 4,GlaxoSmithKline,Pharmaceuticals,129.35,19996
+990,Vaccines 5,GlaxoSmithKline,Pharmaceuticals,1752.88,2004
+991,Medicines 6,GlaxoSmithKline,Pharmaceuticals,732.74,15014
+992,Medicines 7,GlaxoSmithKline,Pharmaceuticals,92.16,22131
+993,Vaccines 8,GlaxoSmithKline,Pharmaceuticals,1186.11,12531
+994,Medicines 9,GlaxoSmithKline,Pharmaceuticals,1131.25,15693
+995,Vaccines 10,GlaxoSmithKline,Pharmaceuticals,1206.84,15345
+996,Vaccines Extra,GlaxoSmithKline,Pharmaceuticals,336.4,1362
+997,Banking Services Extra,Commonwealth Bank,Financial Services,614.91,14126
+998,Lumix Camera Extra,Panasonic,Electronics,1533.71,23292
+999,Petroleum Products Extra,Rosneft,Energy,1366.14,24172
+1000,Jaguar XF Extra,Jaguar Land Rover,Cars,253.26,20482
